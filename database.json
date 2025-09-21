@@ -1,0 +1,120 @@
+{
+  "Category": [
+    {
+      "Id": 0,
+      "ImagePath": "https://res.cloudinary.com/dkikc5ywq/image/upload/v1734083249/project215/ge06ek8uzj72x3jfi83b.png",
+      "Name": "Villa"
+    },
+    {
+      "Id": 1,
+      "ImagePath": "https://res.cloudinary.com/dkikc5ywq/image/upload/v1734083258/project215/yz3yk2mlslv7maib0ybn.png",
+      "Name": "Hotel"
+    },
+    {
+      "Id": 2,
+      "ImagePath": "https://res.cloudinary.com/dkikc5ywq/image/upload/v1734083249/project215/hf33jodmaanjblj0rg9s.png",
+      "Name": "Appartment"
+    },
+    {
+      "Id": 3,
+      "ImagePath": "https://res.cloudinary.com/dkikc5ywq/image/upload/v1734083373/project215/epwqylgwskunc8hhkgqb.png",
+      "Name": "Beach"
+    },
+    {
+      "Id": 4,
+      "ImagePath": "https://res.cloudinary.com/dkikc5ywq/image/upload/v1734083260/project215/nyai8kfkwv0szjghmg05.png",
+      "Name": "GuestHouse"
+    },
+    {
+      "Id": 5,
+      "ImagePath": "https://res.cloudinary.com/dkikc5ywq/image/upload/v1734083373/project215/j8ptw8s3hmnbfxkxu5ic.png",
+      "Name": "Camp"
+    },
+    {
+      "Id": 6,
+      "ImagePath": "https://res.cloudinary.com/dkikc5ywq/image/upload/v1734083260/project215/wr83ondcasfnwzwt84gf.png",
+      "Name": "Voucher"
+    },
+    {
+      "Id": 7,
+      "ImagePath": "https://res.cloudinary.com/dkikc5ywq/image/upload/v1734083268/project215/czbjnclggetupthc3hij.png",
+      "Name": "More"
+    }
+  ],
+  "Popular": [
+    {
+      "address": "Bali, Indonesia",
+      "bed": 3,
+      "dateTour": "10 July 2025",
+      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing  elit,sed do eiusmod tempor incididunt ut labore et  dolore magna aliqua. Ut enim ad minim veniam, quis  nostrud exercitation ullamco laboris nisi ut aliquip  ex ea commodo consequat. Ut enim ad minim  veniam, quis nostrud exercitation ullamco laboris  nisi ut aliquip ex ea commodo consequat. ",
+      "distance": "200Km",
+      "wifi":true,
+      "guide":true,
+      "duration": "1D / 1N",
+      "pic": [
+        "https://res.cloudinary.com/dkikc5ywq/image/upload/v1758186624/beach1_oupkuo.jpg",
+        "https://res.cloudinary.com/dkikc5ywq/image/upload/v1758186668/item_1_gh4top.jpg",
+        "https://res.cloudinary.com/dkikc5ywq/image/upload/v1758186643/item_2_ebb9vf.jpg",
+        "https://res.cloudinary.com/dkikc5ywq/image/upload/v1758186637/item_3_lol5ao.jpg",
+        "https://res.cloudinary.com/dkikc5ywq/image/upload/v1758186663/item_4_lwnpk9.jpg"
+      ],
+      "price": 600,
+      "score": 4.1,
+      "timeTour": "11:00 PM",
+      "title": "Nusa Penida",
+      "tourGuideName": "Edward Cloney"
+    },
+    {
+      "address": "Hawaie, USA",
+      "bed": 2,
+      "dateTour": "17 June 2025",
+      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing  elit,sed do eiusmod tempor incididunt ut labore et  dolore magna aliqua. Ut enim ad minim veniam, quis  nostrud exercitation ullamco laboris nisi ut aliquip  ex ea commodo consequat. Ut enim ad minim  veniam, quis nostrud exercitation ullamco laboris  nisi ut aliquip ex ea commodo consequat. ",
+      "distance": "30Km",
+      "duration": "3D / 2N",
+      "wifi":true,
+      "guide":false,
+      "pic": [
+        "https://res.cloudinary.com/dkikc5ywq/image/upload/v1758186637/beach2_vseiwr.jpg",
+"https://res.cloudinary.com/dkikc5ywq/image/upload/v1758186632/item_5_kckpf7.jpg"
+      ],
+      "price": 900,
+      "score": 4.5,
+      "timeTour": "8:00 PM",
+      "title": "Band Island Beach"
+    },
+    {
+      "address": "Lombok,Indonesia",
+      "bed": 1,
+      "dateTour": "18 June 2025",
+      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing  elit,sed do eiusmod tempor incididunt ut labore et  dolore magna aliqua. Ut enim ad minim veniam, quis  nostrud exercitation ullamco laboris nisi ut aliquip  ex ea commodo consequat. Ut enim ad minim  veniam, quis nostrud exercitation ullamco laboris  nisi ut aliquip ex ea commodo consequat. ",
+      "distance": "20Km",
+      "duration": "3D / 2N",
+	"wifi":false,
+      "guide":true,
+      "pic": [
+        "https://res.cloudinary.com/dkikc5ywq/image/upload/v1758186647/beach4_o0cuvq.jpg"
+      ],
+      "price": 800,
+      "score": 4.6,
+      "timeTour": "4:00 PM",
+      "title": "Komodo Island"
+    },
+    {
+      "address": "LosAngles, USA",
+      "bed": 2,
+      "dateTour": "20 July 2025",
+      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing  elit,sed do eiusmod tempor incididunt ut labore et  dolore magna aliqua. Ut enim ad minim veniam, quis  nostrud exercitation ullamco laboris nisi ut aliquip  ex ea commodo consequat. Ut enim ad minim  veniam, quis nostrud exercitation ullamco laboris  nisi ut aliquip ex ea commodo consequat. ",
+      "distance": "90Km",
+      "duration": "2D / 1N",
+      "wifi":true,
+      "guide":true,
+      "pic": [
+        "https://res.cloudinary.com/dkikc5ywq/image/upload/v1734083266/project215/p90k2odd9dlvgmo6kb2u.jpg"
+      ],
+      "price": 750,
+      "score": 4.9,
+      "timeTour": "2:00 PM",
+      "title": "Kelingking Beach"
+    }
+  ]
+}
